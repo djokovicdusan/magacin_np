@@ -10,6 +10,7 @@ public class Magacin implements MagacinInterfejs{
 	@Override
 	public void dodajArtikal(Artikal artikal) {
 		// TODO Auto-generated method stub
+		System.out.println("Nova implementacija Duleta Djokovica");
 		
 	}
 
